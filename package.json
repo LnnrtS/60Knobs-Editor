@@ -45,25 +45,25 @@
     "start": "gulp start"
   },
   "dependencies": {
-    "fs-jetpack": "^1.0.0",
-    "jquery": "^3.2.1",
-    "load-json-file": "^3.0.0",
+    "fs-jetpack": "^2.2.1",
+    "jquery": "^3.3.1",
+    "load-json-file": "^5.1.0",
     "midi": "^0.9.5"
   },
   "devDependencies": {
-    "chai": "^4.1.0",
-    "electron": "^1.6.11",
-    "electron-builder": "^19.16.0",
-    "gulp": "^3.9.1",
+    "chai": "^4.2.0",
+    "electron": "^4.0.1",
+    "electron-builder": "^20.38.5",
+    "gulp": "^4.0.0",
     "gulp-batch": "^1.0.5",
-    "gulp-debug": "^3.1.0",
-    "gulp-less": "^3.3.2",
-    "gulp-plumber": "^1.1.0",
-    "gulp-rename": "^1.2.2",
+    "gulp-debug": "^4.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
     "gulp-util": "^3.0.8",
-    "gulp-watch": "^4.3.11",
-    "rollup": "^0.45.2",
-    "source-map-support": "^0.4.15",
-    "spectron": "^3.7.2"
+    "gulp-watch": "^5.0.1",
+    "rollup": "^1.1.2",
+    "source-map-support": "^0.5.10",
+    "spectron": "^5.0.0"
   }
 }
