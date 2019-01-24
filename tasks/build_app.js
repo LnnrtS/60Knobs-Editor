@@ -57,4 +57,4 @@ gulp.task('watch', () => {
   }));
 });
 
-gulp.task('build', ['bundle', 'less', 'icon', 'images']);
+gulp.task('build', gulp.series('bundle', 'less', 'icon', 'images'));
