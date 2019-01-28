@@ -62,7 +62,7 @@
     "gulp-rename": "^1.4.0",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^5.0.1",
-    "rollup": "^1.1.2",
+    "rollup": "^0.45.2",
     "source-map-support": "^0.5.10",
     "spectron": "^5.0.0"
   }
